@@ -10,7 +10,6 @@
 
 A modern, anime-inspired portfolio website featuring a **judicial UI theme** with a cinematic intro screen, smooth animations, and a professional layout. Designed to showcase skills, projects, and services with a unique aesthetic inspired by Hiromi Higuruma from Jujutsu Kaisen.
 
-![Portfolio Preview](https://placehold.co/1200x600/2c3e3a/90a4ae?text=Portfolio+Preview)
 
 ---
 
